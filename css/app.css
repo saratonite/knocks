@@ -12,14 +12,40 @@ html, body {
   left: 0;
   bottom: 0; }
 
-.app-container {
-  background-color: #16161d;
+.main-container {
+  background-color: rgba(22, 22, 29, 0.87);
   min-height: 100%;
-  height: 100%; }
+  height: 100%;
+  position: relative; }
 
 .qContainer {
   color: #fff;
   font-family: 'Helvetica';
-  font-size: 32px; }
+  font-size: 2em;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  color: #f56;
+  padding: 1em;
+  clear: both; }
+  .qContainer .author {
+    color: #b3b3b3;
+    clear: both;
+    font-size: 16px;
+    text-align: right; }
+
+.qControls {
+  text-align: center;
+  margin: 1em 0; }
+  .qControls button {
+    border: none;
+    padding: 1em;
+    border-radius: 1em;
+    outline: none; }
+    .qControls button:active {
+      background-color: #cecece; }
 
 /*# sourceMappingURL=app.css.map */
