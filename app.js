@@ -1,7 +1,7 @@
 
 function quoteReducer(state,action){
 
-  return {quotes:quotes,colors:__colors};
+  return {quotes:__quotes,colors:__colors};
 
 }
 
@@ -58,7 +58,7 @@ var Quote = React.createClass({
         {author}
 
         <div className="qControls">
-          <button onClick={this.props.knock}>Knock It !!!</button>
+          <button className="btn-knock" onClick={this.props.knock}>Knock It !!!</button>
         </div>
       </div>
 

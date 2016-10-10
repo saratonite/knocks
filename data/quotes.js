@@ -1,4 +1,4 @@
-var quotes = [
+var __quotes = [
   {"text":"Quit worrying about what everyone else is doing. Focus on how you’re helping people."},
   {"text":"Be yourself; everyone else is already taken","author":"Oscar Wilde"},
   {"text":"Forgive. Forget. Life is full of misfortunes."},
