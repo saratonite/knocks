@@ -1,4 +1,11 @@
 
+function quoteReducer(state,action){
+
+  return {quotes:quotes,colors:__colors};
+
+}
+
+var store = Redux.createStore(quoteReducer);
 
 
 // Container Component
@@ -8,7 +15,6 @@ var App = React.createClass({
   },
   componentDidMount:function(){
     this.setState({randomQuote:this.getRandom()});
-    console.log(this.props.colors);
   },
   getRandom:function(){
     var random_pick = Math.floor((Math.random()*this.props.quotes.length));
@@ -33,6 +39,12 @@ var App = React.createClass({
 
   }
 });
+
+function mapStateToProp(state){
+  return {quotes:state.quotes,colors:state.colors};
+}
+var App = ReactRedux.connect(mapStateToProp)(App);
+
 
 // theQuote Component
 var Quote = React.createClass({
@@ -59,4 +71,6 @@ var Quote = React.createClass({
 
 // Initiate App
 
-ReactDOM.render(<App quotes={quotes} colors={__colors}/>,document.getElementById('app'));
+var Provider = ReactRedux.Provider;
+
+ReactDOM.render(<Provider store={store}><App /></Provider>,document.getElementById('app'));
