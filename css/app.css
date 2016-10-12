@@ -47,6 +47,14 @@ html, body {
     .qControls button:active {
       background-color: #cecece; }
     .qControls button.btn-knock {
-      box-shadow: 1px 1px 2px #888888; }
+      box-shadow: 1px 1px 2px #888888;
+      width: 6em;
+      height: 6em;
+      border-radius: 3em;
+      border: 1em solid;
+      background-color: #3f51b5;
+      border-color: #dedede; }
+      .qControls button.btn-knock:active {
+        background-color: #673ab7; }
 
 /*# sourceMappingURL=app.css.map */

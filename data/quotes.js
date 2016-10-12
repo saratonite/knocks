@@ -10,5 +10,6 @@ var __quotes = [
   {"text":"Quality Beats Quantity"},
   {"text":"Life’s a game, play it","author":"Mother Teresa"},
   {"text":"First they ignore you. Then they laugh at you. Then they fight you. Then you win"},
-  {"text":"The more you learn, the more you can learn."}
+  {"text":"The more you learn, the more you can learn."},
+  {"text":"Remember that not getting what you want is sometimes a wonderful stroke of luck","author":"Dalai Lama"}
 ]

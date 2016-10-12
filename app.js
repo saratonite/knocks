@@ -58,7 +58,8 @@ var Quote = React.createClass({
         {author}
 
         <div className="qControls">
-          <button className="btn-knock" onClick={this.props.knock}>Knock It !!!</button>
+          <button className="btn-knock" onClick={this.props.knock}>
+          </button>
         </div>
       </div>
 
