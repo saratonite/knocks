@@ -11,5 +11,7 @@ var __quotes = [
   {"text":"Life’s a game, play it","author":"Mother Teresa"},
   {"text":"First they ignore you. Then they laugh at you. Then they fight you. Then you win"},
   {"text":"The more you learn, the more you can learn."},
-  {"text":"Remember that not getting what you want is sometimes a wonderful stroke of luck","author":"Dalai Lama"}
+  {"text":"Remember that not getting what you want is sometimes a wonderful stroke of luck","author":"Dalai Lama"},
+  {"text":"In times of change, learners inherit the earth, while the learned find themselves beautifully equipped to deal with a world that no longer exists","author":"Eric Hoffer"},
+  {"text":"The secret of change is to focus all of your energy, not on fighting the old but on building the new."}
 ]
