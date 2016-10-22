@@ -13,5 +13,7 @@ var __quotes = [
   {"text":"The more you learn, the more you can learn."},
   {"text":"Remember that not getting what you want is sometimes a wonderful stroke of luck","author":"Dalai Lama"},
   {"text":"In times of change, learners inherit the earth, while the learned find themselves beautifully equipped to deal with a world that no longer exists","author":"Eric Hoffer"},
-  {"text":"The secret of change is to focus all of your energy, not on fighting the old but on building the new."}
+  {"text":"The secret of change is to focus all of your energy, not on fighting the old but on building the new."},
+  {"text":"To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment","author":"Ralph Waldo Emerson"},
+  {"text":"Every act of creation is first of all an act of destruction","author":"Picasso"}
 ]
