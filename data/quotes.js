@@ -15,5 +15,11 @@ var __quotes = [
   {"text":"In times of change, learners inherit the earth, while the learned find themselves beautifully equipped to deal with a world that no longer exists","author":"Eric Hoffer"},
   {"text":"The secret of change is to focus all of your energy, not on fighting the old but on building the new."},
   {"text":"To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment","author":"Ralph Waldo Emerson"},
-  {"text":"Every act of creation is first of all an act of destruction","author":"Picasso"}
+  {"text":"Every act of creation is first of all an act of destruction","author":"Picasso"},
+  {"text":"The meaning of life is to find your gift. The purpose of life is to give it away","author":"Picasso"},
+  {"text":"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do","author":"Steve Jobs"},
+  {"text":"Believe in yourself"},
+  {"text":"If most of us are ashamed of shabby clothes and shoddy furniture, let us be more ashamed of shabby ideas and shoddy philosophies","author":"Albert Einstein"},
+  {"text":"If you want to awaken all of humanity, awaken all of yourself"},
+  {"text":"A year from now you will wish you had started today"}
 ]
