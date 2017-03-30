@@ -23,5 +23,6 @@ var __quotes = [
   {"text":"If you want to awaken all of humanity, awaken all of yourself"},
   {"text":"A year from now you will wish you had started today"},
   {"text":"Rules for happiness: something to do, someone to love, something to hope for","author":"Immanuel Kant"},
-  {"text":"Whenever you are confronted with an opponent, conquer him with love","author":"Mahatma Gandhi"}
+  {"text":"Whenever you are confronted with an opponent, conquer him with love","author":"Mahatma Gandhi"},
+  {"text":"Every person is a new door to a different world","author":"Six Degrees of Separation"}
 ]
