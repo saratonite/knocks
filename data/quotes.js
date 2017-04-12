@@ -26,4 +26,8 @@ var __quotes = [
   {"text":"Whenever you are confronted with an opponent, conquer him with love","author":"Mahatma Gandhi"},
   {"text":"Every person is a new door to a different world","author":"Six Degrees of Separation"},
   {"text":"Do small things with great love.","author":"Mother Teresa"}
+  {"text":"You don't have to live your life the way other people expect you to","author":"Unknown"},
+  {"text":"A ship in harbor is safe — but that is not what ships are built for.","author":"John A. Shedd"},
+  {"text":"In any given moment we have two options: to step forward into growth or back into safety.","author":"Abraham Maslow"}
+  
 ]
